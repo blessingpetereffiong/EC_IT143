@@ -1,0 +1,1 @@
+-- Q: Which company manages each K-pop group and when did they debut?

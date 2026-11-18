@@ -1,0 +1,1 @@
+EXEC dbo.usp_kdrama_load;

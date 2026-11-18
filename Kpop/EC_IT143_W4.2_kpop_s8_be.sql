@@ -1,0 +1,1 @@
+EXEC dbo.usp_kpop_load;
